@@ -1,94 +1,82 @@
- Hi, I’m Arjun Sharma
+Hi, I’m Arjun Sharma
 
-☕ Java Backend Developer | Spring Boot | REST APIs | MySQL | Hibernate
+Java Backend Developer | Spring Boot | REST APIs | MySQL | Hibernate
 
-🎓 BCA Graduate | Chaudhary Charan Singh University, Meerut
-💻 Aspiring Java Backend / Java Full Stack Developer
-🚀 Building backend applications with Java and Spring Boot
-🧩 Practicing Data Structures & Algorithms
-💼 Open to Java Developer opportunities
+BCA graduate focused on Java Backend Development and building practical backend applications using Java, Spring Boot, REST APIs, and MySQL.
 
 ⸻
 
-👨‍💻 About Me
+🚀 About Me
 
-I’m a BCA graduate and aspiring Java Backend Developer with hands-on experience building Java and Spring Boot applications.
-
-I enjoy developing backend applications, designing REST APIs, working with databases, and solving programming problems.
-
-* ☕ Strong foundation in Core Java & OOP
-* 🌱 Learning and building projects with Spring Boot
-* 🔗 Developing REST APIs
-* 🗄️ Working with MySQL, JPA & Hibernate
-* 🧠 Practicing Data Structures & Algorithms
-* 🔧 Using Git & GitHub for version control
-* 📬 Open to Java Backend / Java Full Stack opportunities
+* 🎓 BCA Graduate — Chaudhary Charan Singh University, Meerut
+* 💻 Aspiring Java Backend Developer
+* 🔧 Interested in building scalable and maintainable backend applications
+* 🌱 Currently improving Spring Boot, REST APIs, SQL, JPA/Hibernate and DSA
+* 🔐 Learning backend security with Spring Security and JWT
+* 🧩 Regularly practicing Data Structures & Algorithms
+* 📌 Open to Java Backend Developer and Software Developer opportunities
 
 ⸻
 
-🛠️ Tech Stack
+🛠️ Technical Skills
 
-💻 Programming
+Languages
 
 * Java
 * SQL
 
-🚀 Backend
+Backend
 
 * Spring Boot
+* Spring MVC
+* REST APIs
 * Spring Data JPA
 * Hibernate
-* REST APIs
 * JDBC
+* Spring Security
+* JWT
 
-🗄️ Database
+Database
 
 * MySQL
 
-🔧 Tools
+Core Java
+
+* OOP
+* Collections
+* Exception Handling
+* Arrays
+* Strings
+* DSA
+
+Tools
 
 * Git
 * GitHub
-* IntelliJ IDEA
-* Postman
 * Maven
+* Postman
+* IntelliJ IDEA
 
 ⸻
 
-🚀 Featured Projects
+🔥 Featured Projects
 
-🛒 E-Commerce Application
+🛒 E-Commerce Backend
 
-A backend-focused e-commerce application developed using Java and Spring Boot.
+Java | Spring Boot | Spring Security | JWT | MySQL | JPA/Hibernate
 
-Key Areas:
+A Spring Boot e-commerce backend implementing REST APIs, authentication and authorization, cart management, orders, checkout, and inventory management.
 
-* REST API development
-* Product management
-* Database integration
-* CRUD operations
-* Backend business logic
-
-Tech Stack:
-Java Spring Boot REST API MySQL JPA Hibernate
+🔗 Repository:
+https://github.com/arjunsha9808/ecommerce
 
 ⸻
 
 👨‍💼 Employee Management System
 
-A Spring Boot based CRUD application for managing employee information with MySQL database integration.
+Java | Spring Boot | REST API | Spring Data JPA | Hibernate | MySQL
 
-Key Features:
-
-* Add employees
-* Update employee details
-* Delete employees
-* Search employee records
-* REST API integration
-* MySQL database connectivity
-
-Tech Stack:
-Java Spring Boot Spring Data JPA Hibernate MySQL REST API
+RESTful employee management application with CRUD operations, DTOs, layered architecture, database integration, and centralized exception handling.
 
 🔗 Repository:
 https://github.com/arjunsha9808/employee-management-system-springboot
@@ -97,124 +85,52 @@ https://github.com/arjunsha9808/employee-management-system-springboot
 
 🎓 Student Management System
 
-A Java-based application designed to manage student information and perform database operations.
+Java | JDBC | MySQL | OOP | SQL
 
-Key Features:
+Console-based application for managing student records with CRUD operations using JDBC and MySQL.
 
-* Add student records
-* Update student information
-* Delete student records
-* View student details
-* Database connectivity
-
-Tech Stack:
-Java JDBC MySQL OOP
+🔗 Repository:
+https://github.com/arjunsha9808/student-management-system
 
 ⸻
 
-🏧 ATM Machine Simulation
+📂 Other Projects
 
-A Java console application that simulates basic ATM operations.
-
-Features:
-
-* Balance inquiry
-* Cash withdrawal
-* Deposit
-* User input handling
-* Basic validation
-
-Tech Stack:
-Java OOP Conditional Statements Exception Handling
-
-⸻
-
-🎯 Number Guessing Game
-
-A simple Java console application where the user attempts to guess a randomly generated number.
-
-Tech Stack:
-Java Loops Conditional Statements Random
-
-⸻
-
-🧮 Calculator
-
-A simple Java-based calculator application implementing basic arithmetic operations.
-
-Operations:
-
-* Addition
-* Subtraction
-* Multiplication
-* Division
-
-Tech Stack:
-Java Methods Conditional Statements
+* 🏧 ATM Machine Simulation — Java
+* 🎯 Number Guessing Game — Java
+* 🧮 Calculator — Java
+* 🛍️ ShopKart — Android E-Commerce Application
 
 ⸻
 
 🧠 Problem Solving
 
-I regularly practice coding and Data Structures & Algorithms to improve my problem-solving skills.
+I practice coding problems to strengthen my problem-solving and Data Structures & Algorithms skills.
 
-🔥 LeetCode
-
-🔗 https://leetcode.com/u/arjun_9808/
-
-💻 GitHub
-
-🔗 https://github.com/arjunsha9808
-
-⸻
-
-📚 Currently Learning
-
-* Advanced Java
-* Spring Boot
-* REST API Development
-* Spring Data JPA
-* Hibernate
-* MySQL & SQL
-* Data Structures & Algorithms
-* Backend Development
+* 💻 LeetCode: https://leetcode.com/u/arjun_9808/
+* 🐙 GitHub: https://github.com/arjunsha9808
 
 ⸻
 
 📜 Certifications
 
-* Software Engineering Certificate
-* Java / Programming Certifications
-* HackerRank Certification
+* HackerRank — Software Engineering Certification
+* HackerRank — Java Certification
 
 ⸻
 
-📊 GitHub Stats
+📫 Connect With Me
 
-⸻
-
-🤝 Connect With Me
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/arjun-sharma-942b483b6/
-
-💻 GitHub
-
-https://github.com/arjunsha9808
-
-🧩 LeetCode
-
-https://leetcode.com/u/arjun_9808/
+* 💼 LinkedIn: https://www.linkedin.com/in/arjun-sharma-942b483b6
+* 🐙 GitHub: https://github.com/arjunsha9808
+* 💻 LeetCode: https://leetcode.com/u/arjun_9808/
 
 ⸻
 
 🎯 Career Goal
 
-I’m looking for opportunities where I can contribute as a Java Backend Developer / Java Full Stack Developer, work on real-world applications, and continue growing as a software engineer.
+To begin my career as a Java Backend Developer and contribute to building reliable, scalable, and maintainable software applications.
 
 ⸻
 
 ⭐ Thanks for visiting my profile!
-
-Code • Learn • Build • Improve
